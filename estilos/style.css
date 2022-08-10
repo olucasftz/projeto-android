@@ -48,8 +48,7 @@ header > h1 {
     font-family: var(--fonte-destaque);
     font-size: 3em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
-    margin-bottom: 20px;
-    
+    margin-bottom: 20px;  
 }
 
 header > p {
@@ -59,6 +58,7 @@ header > p {
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
     max-width: 600px;
     margin: auto;
+    padding-bottom: 35px;
 }
 
 nav {
